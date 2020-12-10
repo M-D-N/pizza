@@ -1,0 +1,21 @@
+@font-face{
+  font-family:'Montserat-Thin';
+  src: url(Montserrat-Thin.ttf);
+}
+@font-face{
+  font-family:'Montserat-Light';
+  src: url(Montserrat-Light.ttf);
+}
+@font-face{
+  font-family:'Montserat-Regular';
+  src: url(Montserrat-Regular.ttf);
+}
+@font-face{
+  font-family:'Montserat-Bold';
+  src: url(Montserrat-Bold.ttf);
+}
+
+@font-face{
+  font-family:'Montserat-Black';
+  src: url(Montserrat-Black.ttf);
+}
